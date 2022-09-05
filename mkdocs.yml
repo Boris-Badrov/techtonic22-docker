@@ -24,15 +24,15 @@ theme:
 nav:
   - Workshop:
       - index.md
-      - What is Docker?: 1.1-what-is-docker.md
-      - Images & Containers: 1.2-images-containers.md
-      - Virtual Machines: 1.3-vms.md
-      - Persistence: 1.4-persistence.md
-      - Clone: 1.5-clone.md
-      - Build: 1.6-build.md
-      - Change Code: 1.7-change-code.md
-      - Stop Container: 1.8-stop-container.md
-      - Build Again: 1.9-build-again.md
+      - What is Docker?: 1.01-what-is-docker.md
+      - Images & Containers: 1.02-images-containers.md
+      - Virtual Machines: 1.03-vms.md
+      - Persistence: 1.04-persistence.md
+      - Clone: 1.05-clone.md
+      - Build: 1.06-build.md
+      - Change Code: 1.07-change-code.md
+      - Stop Container: 1.08-stop-container.md
+      - Build Again: 1.09-build-again.md
       - Multi Container: 1.10-multi-container.md
       - Container 2 Container: 1.11-container-2-container.md
       - Hot reloading within Docker: 1.12-local-dev.md
