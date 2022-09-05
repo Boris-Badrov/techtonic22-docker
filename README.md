@@ -15,7 +15,7 @@
 ```
 git clone https://github.com/Boris-Badrov/techtonic22-docker.git
 ```
-#### Make sure Docker has been installed correctly
+### Make sure Docker has been installed correctly
 
 ```
 docker version
