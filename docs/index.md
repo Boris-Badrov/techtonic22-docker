@@ -1,3 +1,8 @@
+---
+hide:
+  - toc
+---
+
 # Techtonic-22 Docker
 
 ## After going through this workshop you should understand:
