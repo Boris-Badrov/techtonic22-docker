@@ -25,7 +25,7 @@ docker version
 ```
 
 ```
-docker pull hello-world
+docker run hello-world
 ```
 
 #### Should receive input to indicate Docker is working correctly.

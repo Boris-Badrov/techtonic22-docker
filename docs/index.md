@@ -30,7 +30,7 @@ docker version
 ```
 
 ```
-docker pull hello-world
+docker run hello-world
 ```
 
 !!! Note 

@@ -34,7 +34,7 @@ nav:
       - Build Again: 1.09-build-again.md
       - Multi Container: 1.10-multi-container.md
       - Container 2 Container: 1.11-container-2-container.md
-      - Hot reloading within Docker: 1.12-local-dev.md
+      - (Bonus Round) Hot reloading within Docker: 1.12-local-dev.md
       - Clean up: 1.13-clean-up.md
       - Recap: 1.14-recap.md
 extra_css:
