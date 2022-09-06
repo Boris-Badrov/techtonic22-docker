@@ -33,5 +33,7 @@ docker version
 docker pull hello-world
 ```
 
-#### Should receive input to indicate Docker is working correctly.
-#### If you receive 'Permission Denied' on the 'pull' command then you'll need to prefix it with 'sudo'.
+!!! Note 
+    Should receive input to indicate Docker is working correctly.
+!!! Warning
+    If you receive 'Permission Denied' on the 'pull' command then you'll need to prefix it with 'sudo'.
