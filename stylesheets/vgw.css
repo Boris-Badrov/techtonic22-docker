@@ -1,0 +1,43 @@
+@import url('//fonts.cdnfonts.com/css/jetbrains-mono');
+
+main {
+  background-color: var(--md-footer-bg-color);
+}
+
+.md-header,
+.md-tabs {
+  font-family: 'JetBrains Mono', monospace;
+  color: var(--md-default-fg-color);
+}
+
+.md-header {
+  background-color: var(--md-primary-bg-color);
+  border-bottom: 1px solid var(--md-typeset-a-color);
+  -webkit-backdrop-filter: blur(15px);
+  backdrop-filter: blur(15px);
+}
+
+.md-tabs {
+  background-color: rgba(0, 0, 0, 0);
+}
+
+.md-search__form,
+.md-search__form:hover {
+  background-color: var(--md-default-fg-color);
+}
+
+.md-footer {
+  background-color: var(--md-primary-bg-color);
+}
+
+.md-footer-meta {
+  display: none;
+}
+
+.md-typeset h1 {
+  font-family: 'JetBrains Mono', monospace;
+  color: var(--md-primary-bg-color);
+  background: var(--md-typeset-a-color);
+  display: inline;
+  padding: 0.1em 1em;
+}
