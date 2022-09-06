@@ -14,7 +14,7 @@ hide:
 * How to set up container to container communication
 
 ## Following along:
-### Content has been hosted [here](https://boris-badrov.github.io/techtonic22-docker/)
+### Content has been hosted @ https://boris-badrov.github.io/techtonic22-docker/
 ### Otherwise go to the commands directory to get the commands being run
 
 ## Set up:
