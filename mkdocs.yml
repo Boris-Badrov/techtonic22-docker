@@ -3,14 +3,13 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
+
 theme:
   name: material
   palette:
     scheme: slate
-    primary: orange
-    accent: deep orange
+    primary: yellow
+    accent: yellow
   icon:
     repo: fontawesome/brands/github
   features:
@@ -37,3 +36,5 @@ nav:
       - Container 2 Container: 1.11-container-2-container.md
       - Hot reloading within Docker: 1.12-local-dev.md
       - Clean up: 1.13-clean-up.md
+extra_css:
+  - stylesheets/vgw.css
